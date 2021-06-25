@@ -1,4 +1,5 @@
-# String-Decorator
-A program that decorates strings.
+# String programs
 
-Hello everyone! -> *.*.HELLO EVERYONE!.*.*
+String decorator
+
+A program that decorates strings
