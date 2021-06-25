@@ -6,4 +6,4 @@ A program that decorates strings;
 
 YellOrWhisper:
 
-Yells or whispers an input
+Yells or whispers an input;
