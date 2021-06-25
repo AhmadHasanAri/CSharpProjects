@@ -1,5 +1,9 @@
 # String programs
 
-String decorator
+String decorator:
 
-A program that decorates strings
+A program that decorates strings;
+
+YellOrWhisper:
+
+Yells or whispers an input
