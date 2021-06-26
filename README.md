@@ -12,4 +12,8 @@ Yells or whispers an input;
 
 BankCalculator:
 
-Calculates money after deposit and withdrawal
+Calculates money after deposit and withdrawal;
+
+CanParse:
+
+Tries to parse a given input into a string
